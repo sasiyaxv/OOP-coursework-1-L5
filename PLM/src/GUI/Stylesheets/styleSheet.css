@@ -1,0 +1,113 @@
+/*------------------------------------------------ Welcome Page--------------------------------------------------*/
+
+#welcomePane{
+    -fx-background-image: url("welcomePage.jpg");
+
+}
+
+#firstHeader{
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+#quitBtn{
+
+    -fx-background-color: lightcoral;
+}
+.label{
+    -fx-font-size: 15px;
+}
+.button{
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-font-family: "basic title font";
+    -fx-background-color: lightblue;
+    -fx-cursor: hand;
+    -fx-min-height: 80px;
+    -fx-min-width: 350px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+
+
+/*--------------------------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------Home page----------------------------------------------------------*/
+
+#homePane{
+    -fx-background-image: url("background.jpg");
+}
+#startBtn{
+
+    -fx-cursor: hand;
+    -fx-font-size: 20px;
+    -fx-min-height: 80px;
+    -fx-min-width: 350px;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+
+}
+
+#header{
+    -fx-font-size: 40px;
+    -fx-text-fill: white;
+
+}
+
+#headingTxt{
+    /*-fx-font-size: 40px;*/
+    -fx-font-weight: bold;
+
+}
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------Match details page-------------------------------------------------------*/
+
+#tableView{
+    -fx-font-size: 15px;
+}
+.text-field{
+    -fx-min-height: 60px;
+    -fx-font-size: 20px;
+    -fx-padding: 10px;
+}
+.Vbox{
+
+}
+.button{
+    -fx-start-margin: 10px;
+}
+
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------Club details page-------------------------------------------------------*/
+
+.button{
+    -fx-min-height: 80px;
+    -fx-min-width: 350px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-color: lightblue;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+    -fx-cursor: hand;
+
+}
+
+#backBtn{
+    -fx-background-color: lightcoral;
+}
+
+#tableView{
+    -fx-font-size: 15px;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------------*/

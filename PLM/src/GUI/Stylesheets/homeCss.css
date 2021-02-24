@@ -1,0 +1,19 @@
+#quitBtn{
+
+    -fx-background-color: lightcoral;
+}
+.label{
+    -fx-font-size: 40px;
+}
+.button{
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-font-family: "basic title font";
+    -fx-background-color: lightblue;
+    -fx-cursor: hand;
+    -fx-min-height: 80px;
+    -fx-min-width: 350px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}

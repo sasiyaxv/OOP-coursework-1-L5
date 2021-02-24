@@ -1,0 +1,16 @@
+.button{
+    -fx-min-height: 80px;
+    -fx-min-width: 350px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-color: lightblue;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+    -fx-cursor: hand;
+
+}
+
+#backBtn{
+    -fx-background-color: lightcoral;
+}

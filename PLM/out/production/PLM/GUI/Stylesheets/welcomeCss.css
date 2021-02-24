@@ -1,0 +1,16 @@
+#startBtn{
+
+   -fx-cursor: hand;
+   -fx-font-size: 20px;
+   -fx-min-height: 80px;
+   -fx-min-width: 350px;
+   -fx-font-weight: bold;
+   -fx-border-color: black;
+   -fx-border-width: 2px;
+
+}
+#headingTxt{
+   -fx-font-size: 40px;
+   -fx-font-weight: bold;
+
+}
